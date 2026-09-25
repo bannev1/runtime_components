@@ -14,7 +14,7 @@ My personal dotfiles for bash, zsh, vim, gdb, and git.
 ## Usage
 
 ```bash
-git clone git@github.com:{username}/runtime-components.git
+git clone git@github.com:bannev1/runtime-components.git
 cd runtime-components
 ./install.sh
 ```
