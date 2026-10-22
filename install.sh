@@ -1,4 +1,4 @@
-nstall.sh: put the rc files in this repository to work.
+# install.sh: put the rc files in this repository to work.
 #
 # Usage:
 #   ./install.sh             install everything
