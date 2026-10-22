@@ -1,4 +1,4 @@
-emember commands between gdb sessions (use the up arrow, like in bash).
+# Remember commands between gdb sessions (use the up arrow, like in bash).
 set history save on
 set history size 10000
 set history filename ~/.gdb_history
