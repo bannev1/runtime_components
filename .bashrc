@@ -1,4 +1,4 @@
-fter editing, apply your changes to the current terminal with:
+# After editing, apply your changes to the current terminal with:
 #     source ~/.bashrc
 
 # ---------------------------------------------------------------------------
