@@ -1,4 +1,3 @@
-s the default shell on macOS. It does NOT read ~/.bashrc.
 # After editing, apply your changes to the current terminal with:
 #     source ~/.zshrc
 
