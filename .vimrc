@@ -1,4 +1,3 @@
-nes starting with a double quote are comments.
 "
 " To see what any option does, run inside vim:   :help 'number'
 
